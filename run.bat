@@ -1,1 +1,0 @@
-python JinnUI.py batch.txt
